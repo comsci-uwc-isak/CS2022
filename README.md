@@ -19,7 +19,7 @@ Last year in G11 we explored three different projects including the creation of 
 ![](Lydia.png)
 1. Unit 2: An inter planetary communication system with Modern C and Arduino. [Github repository by Alex Nygaard](https://github.com/Alex-Nygaard/martianUnit2Project)  
 ![](Alex.jpg)
-1. Uni 1: A car rental application in BASH programming. [Github repository by Lauricenia Buque](https://github.com/comsci-uwc-isak/unit-1-project-Lauricenia)
+1. Uni 1: A car rental application in BASH programming. [Github repository by Lauricenia Buque](https://github.com/comsci-uwc-isak/unit-1-project-Lauricenia) 
 ![](lauricenia.png)
 
 # 1. 🔥 How to succeed in this course
