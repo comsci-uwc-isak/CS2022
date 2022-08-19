@@ -1,6 +1,6 @@
 
 # UWC ISAK Computer Science 2022
-![](typing.gif)
+![](src/typing.gif)
 
 Welcome! 
 
@@ -8,7 +8,7 @@ Computer Science is an experimental science. From the early days with analog com
 
 In a concise way:
 
-"Computer science requires an understanding of the fundamental concepts of computational thinking as well as knowledge of how computers and other digital devices operate." [IB Computer Science Guide 2017](CompSciGuide.pdf)
+"Computer science requires an understanding of the fundamental concepts of computational thinking as well as knowledge of how computers and other digital devices operate." [IB Computer Science Guide 2017](src/CompSciGuide.pdf)
 
 "Computational thinking represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use."  [(Wing, Jeanette M. 2006)](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
 
@@ -16,14 +16,14 @@ Last year in G11 we explored three different projects including the creation of 
 
 1. [Video Unit 3 report by Alex Nygaard:](https://www.youtube.com/watch?v=jgiC-1BM9TQ)
 1. Unit 3: Creating a Graphical User Interface for a real client with Python. [Github repository by Lydia Etherington](https://github.com/lyds-jane/unit3)
-![](Lydia.png)
+![](src/Lydia.png)
 1. Unit 2: An inter planetary communication system with Modern C and Arduino. [Github repository by Alex Nygaard](https://github.com/Alex-Nygaard/martianUnit2Project)  
-![](Alex.jpg)
+![](src/Alex.jpg)
 1. Uni 1: A car rental application in BASH programming. [Github repository by Lauricenia Buque](https://github.com/comsci-uwc-isak/unit-1-project-Lauricenia) 
-![](lauricenia.png)
+![](src/lauricenia.png)
 
 # 1. 🔥 How to succeed in this course
-![](Study.gif)
+![](src/Study.gif)
 
 To succeed in this course you should:
 
@@ -44,19 +44,19 @@ The topics that must be studied, including some practical work, are:
 
 * Topic 1: System fundamentals (20 hours)
 
-![](Topic%201.png)
+![](src/Topic%201.png)
 
 * Topic 2: Computer organization (6 hours)
 
-![](Topic%202.png)
+![](src/Topic%202.png)
 
 * Topic 3: Networks (9 hours)
 
-![](Topic3.png)
+![](src/Topic3.png)
 
 * Topic 4: Computational thinking, problem-solving and programming (45 hours)
 
-![](Topic%204.png)
+![](src/Topic%204.png)
 
 HL extension
 The topics that must be studied, including some practical work, are:
@@ -64,7 +64,7 @@ The topics that must be studied, including some practical work, are:
 * Topic 6: Resource management (8 hours)
 * Topic 7: Control (14 hours)
 
-[See more](syllabus.md).
+[See more](src/syllabus.md).
 
 # 3. 💪 The Assessment
 
@@ -101,11 +101,11 @@ The Internal Assessment (IA) is your opportunity of developing a software applic
 | Criterion D: Functionality (Video)            | 4            |
 | Criterion E: Evaluation                       | 6            |
 
-You will get use to read this rubric as we will be using it constantly for the projects explored in every Unit. See the detailed description of the [rubric for the IA here](IArubric.pdf)
+You will get use to read this rubric as we will be using it constantly for the projects explored in every Unit. See the detailed description of the [rubric for the IA here](src/IArubric.pdf)
 
 # 4. 🔥 Tools we will use
 
-![](jetbrains.png)
+![](src/jetbrains.png)
 
 We will use the Integrated Development Editors (IDE) from JetBrains. These are professional grade software tools free for UWC Students. From all the different favours JetBrain I recommend:
 
@@ -117,24 +117,23 @@ Procedure to install these tools:
 
 1. Create a free account at [JetBrains.com](https://www.jetbrains.com/), with your UWC ISAK email account. 
 1. Apply for a student free license.
-![](studentLicense.png)
+![](src/studentLicense.png)
 1. Download the tools and install them in your computer.
 1. When the login window appears for the license, use your email address.
 
-![](login.png)
+![](src/login.png)
 
 **Note**If you are using a school's laptop, you will have to find Rie-san in the IT office and ask her to create the "TEST account for Dr. Ruben". Then, I can authorise the installation.
 
 ## GitHub
-![](github.gif)
 
 The other tool we will use all the time is [GitHub](github.com). GitHub is a professional drive online that software developers use to store their code and collaborate with their teams.
 
 1. Create a free account at github with your UWC ISAK email.
 1. Create a new repository with name Unit 1. A repository is the name for folder in GitHub.
-![](createRepoUnit.png)
+![](src/createRepoUnit.png)
 1. Send me a **nice** email with the link to your repository.
-![](linkRepo.png)
+![](src/linkRepo.png)
 
 ## Snakify
 [Snakify](https://snakify.org/en/) is an excellent tool online where you can develop your programming skills. In the length of G11 you will solve about 200 programming exercises on this website. I will be able to track your progress and give your feedback in this website.
