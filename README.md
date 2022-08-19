@@ -32,7 +32,7 @@ To succeed in this course you should:
 * [Unit 1.2: Systems Design](https://docs.google.com/document/d/19DpTMQbbKNdv6U3X0Lhh9nazSbR_3UrHHjw_eNA5Dvs/edit?usp=sharing)
 * [Unit 2: Computer Architecture](https://docs.google.com/document/d/16ZTj6Sz8Av3vaKwGk12HYuuz8LbhGmRnWeuu5m2stzU/edit?usp=sharing) One of my favourite topics 😄
 * [Unit 3: Computer Networks](https://docs.google.com/document/d/1tU-af5J2uWI2L-R365wCZqh4oIUaWn7MT4kOMeLxPOk/edit?usp=sharing)
-* Unit 4: Computer Programming
+* [Unit 4: Computer Programming](https://docs.google.com/document/d/1tiM3hschlpbJoT1LEJjOwvkjy937cI2SXy9CK-jNDMk/edit)
 * [Unit 5: Data Structures](https://docs.google.com/document/d/13dn-5sBRXE58BfRoD4IxiAgH42OLp3edFwDNA2iqaVY/edit?usp=sharing)
 3. Practice your Computational Thinking Skills by solving the programming challenges. Go beyond the exercises assigned and develop mastery.
 4. Complete the assignments and deadlines.
